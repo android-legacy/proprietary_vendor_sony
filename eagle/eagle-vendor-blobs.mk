@@ -191,6 +191,18 @@ PRODUCT_COPY_FILES += \
     vendor/sony/eagle/proprietary/lib/libsys-utils.so:system/lib/libsys-utils.so \
     vendor/sony/eagle/proprietary/lib/libta.so:system/lib/libta.so \
     vendor/sony/eagle/proprietary/lib/libyasalgo.so:system/lib/libyasalgo.so \
+    vendor/sony/eagle/proprietary/lib/soundfx/libaudiopreprocessing.so:system/lib/soundfx/libaudiopreprocessing.so \
+    vendor/sony/eagle/proprietary/lib/soundfx/libbundlewrapper.so:system/lib/soundfx/libbundlewrapper.so \
+    vendor/sony/eagle/proprietary/lib/soundfx/libdownmix.so:system/lib/soundfx/libdownmix.so \
+    vendor/sony/eagle/proprietary/lib/soundfx/libeffectproxy.so:system/soundfx/libeffectproxy.so \
+    vendor/sony/eagle/proprietary/lib/soundfx/libldnhncr.so:system/lib/soundfx/libldnhncr.so \
+    vendor/sony/eagle/proprietary/lib/soundfx/libposteffectwrapper.so:system/lib/soundfx/libposteffectwrapper.so \
+    vendor/sony/eagle/proprietary/lib/soundfx/libqcompostprocbundle.so:system/lib/soundfx/libqcompostprocbundle.so \
+    vendor/sony/eagle/proprietary/lib/soundfx/libqcomvisualizer.so:system/lib/soundfx/libqcomvisualizer.so \
+    vendor/sony/eagle/proprietary/lib/soundfx/libqcomvoiceprocessing.so:system/lib/soundfx/libqcomvoiceprocessing.so \
+    vendor/sony/eagle/proprietary/lib/soundfx/libreverbwrapper.so:system/lib/soundfx/libreverbwrapper.so \
+    vendor/sony/eagle/proprietary/lib/soundfx/libsoundaurawrapper.so:system/lib/soundfx/libsoundaurawrapper.so \
+    vendor/sony/eagle/proprietary/lib/soundfx/libvisualizer.so:system/lib/soundfx/libvisualizer.so \
     vendor/sony/eagle/proprietary/lib/sysmon/sysmon_batt_therm.so:system/lib/sysmon/sysmon_batt_therm.so \
     vendor/sony/eagle/proprietary/lib/sysmon/sysmon_charge_current_limit_level.so:system/lib/sysmon/sysmon_charge_current_limit_level.so \
     vendor/sony/eagle/proprietary/lib/sysmon/sysmon_charging.so:system/lib/sysmon/sysmon_charging.so \
