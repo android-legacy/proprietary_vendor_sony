@@ -41,7 +41,6 @@ PRODUCT_COPY_FILES += \
     vendor/sony/eagle/proprietary/bin/qseecomd:system/bin/qseecomd \
     vendor/sony/eagle/proprietary/bin/radish:system/bin/radish \
     vendor/sony/eagle/proprietary/bin/rfs_access:system/bin/rfs_access \
-    vendor/sony/eagle/proprietary/bin/rmt_storage:system/bin/rmt_storage \
     vendor/sony/eagle/proprietary/bin/scd:system/bin/scd \
     vendor/sony/eagle/proprietary/bin/scdnotifier:system/bin/scdnotifier \
     vendor/sony/eagle/proprietary/bin/sct_service:system/bin/sct_service \
