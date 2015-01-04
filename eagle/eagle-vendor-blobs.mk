@@ -424,5 +424,4 @@ PRODUCT_COPY_FILES += \
     vendor/sony/eagle/proprietary/vendor/lib/libwvdrm_L3.so:system/vendor/lib/libwfduibcsrcinterface.so \
     vendor/sony/eagle/proprietary/vendor/lib/libxml.so:system/vendor/lib/libxml.so \
     vendor/sony/eagle/proprietary/vendor/lib/libsensor1.so:system/vendor/lib/libsensor1.so \
-    vendor/sony/eagle/proprietary/vendor/lib/libwvm.so:system/vendor/lib/libwvm.so \
     vendor/sony/eagle/proprietary/vendor/lib/libWVStreamControlAPI_L3.so:system/vendor/lib/libWVStreamControlAPI_L3.so
