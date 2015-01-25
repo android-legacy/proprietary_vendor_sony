@@ -55,10 +55,8 @@ PRODUCT_COPY_FILES += \
     vendor/sony/eagle/proprietary/etc/firmware/venus.b04:system/etc/firmware/venus.b04 \
     vendor/sony/eagle/proprietary/etc/firmware/venus.mbn:system/etc/firmware/venus.mbn \
     vendor/sony/eagle/proprietary/etc/firmware/venus.mdt:system/etc/firmware/venus.mdt \
-    vendor/sony/eagle/proprietary/lib/hw/camera.msm8226.so:system/lib/hw/camera.msm8226.so \
     vendor/sony/eagle/proprietary/lib/hw/sensors.msm8226.so:system/lib/hw/sensors.msm8226.so \
     vendor/sony/eagle/proprietary/lib/libbeautyface.so:system/lib/libbeautyface.so \
-    vendor/sony/eagle/proprietary/lib/libcameraservice.so:system/lib/libcameraservice.so \
     vendor/sony/eagle/proprietary/lib/libchromatix_imx134_liveshot.so:system/lib/libchromatix_imx134_liveshot.so \
     vendor/sony/eagle/proprietary/lib/libchromatix_imx134_video_hd.so:system/lib/libchromatix_imx134_video_hd.so \
     vendor/sony/eagle/proprietary/lib/libchromatix_imx134li_liveshot.so:system/lib/libchromatix_imx134li_liveshot.so \
@@ -73,8 +71,6 @@ PRODUCT_COPY_FILES += \
     vendor/sony/eagle/proprietary/lib/libfaceengine.so:system/lib/libfaceengine.so \
     vendor/sony/eagle/proprietary/lib/libfacelock_jni.so:system/lib/libfacelock_jni.so \
     vendor/sony/eagle/proprietary/lib/libfilterpack_facedetect.so:system/lib/libfilterpack_facedetect.so \
-    vendor/sony/eagle/proprietary/lib/libmm-qcamera.so:system/lib/libmm-qcamera.so \
-    vendor/sony/eagle/proprietary/lib/libmmcamera_interface.so:system/lib/libmmcamera_interface.so \
     vendor/sony/eagle/proprietary/lib/libmorpho_denoiser.so:system/lib/libmorpho_denoiser.so \
     vendor/sony/eagle/proprietary/lib/libmorpho_easy_hdr.so:system/lib/libmorpho_easy_hdr.so \
     vendor/sony/eagle/proprietary/lib/libmorpho_edit_engine.so:system/lib/libmorpho_edit_engine.so \
