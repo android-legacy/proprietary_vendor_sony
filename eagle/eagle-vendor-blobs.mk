@@ -59,6 +59,8 @@ PRODUCT_COPY_FILES += \
     vendor/sony/eagle/proprietary/lib/hw/sensors.msm8226.so:system/lib/hw/sensors.msm8226.so \
     vendor/sony/eagle/proprietary/lib/libbeautyface.so:system/lib/libbeautyface.so \
     vendor/sony/eagle/proprietary/lib/libcameraservice.so:system/lib/libcameraservice.so \
+    vendor/sony/eagle/proprietary/lib/libmmjpeg_interface.so:system/lib/libmmjpeg_interface.so \
+    vendor/sony/eagle/proprietary/lib/libqomx_core.so:system/lib/libqomx_core.so \
     vendor/sony/eagle/proprietary/lib/libchromatix_imx134_liveshot.so:system/lib/libchromatix_imx134_liveshot.so \
     vendor/sony/eagle/proprietary/lib/libchromatix_imx134_video_hd.so:system/lib/libchromatix_imx134_video_hd.so \
     vendor/sony/eagle/proprietary/lib/libchromatix_imx134li_liveshot.so:system/lib/libchromatix_imx134li_liveshot.so \
