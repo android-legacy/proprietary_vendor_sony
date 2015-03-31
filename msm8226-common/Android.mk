@@ -1,3 +1,5 @@
+LOCAL_PATH := $(call my-dir)
+
 ifeq ($(BOARD_USES_QC_TIME_SERVICES),true)
 
 include $(CLEAR_VARS)
