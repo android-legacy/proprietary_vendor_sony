@@ -56,8 +56,6 @@ PRODUCT_COPY_FILES += \
     vendor/sony/msm8226-common/proprietary/lib/libdiag.so:system/lib/libdiag.so \
     vendor/sony/msm8226-common/proprietary/lib/libkeyctrl.so:system/lib/libkeyctrl.so \
     vendor/sony/msm8226-common/proprietary/lib/libmiscta.so:system/lib/libmiscta.so \
-    vendor/sony/msm8226-common/proprietary/lib/libmm-omxcore.so:system/lib/libmm-omxcore.so \
-    vendor/sony/msm8226-common/proprietary/lib/libmmjpeg_interface.so:system/lib/libmmjpeg_interface.so \
     vendor/sony/msm8226-common/proprietary/lib/libpin-cache.so:system/lib/libpin-cache.so \
     vendor/sony/msm8226-common/proprietary/lib/libqomx_core.so:system/lib/libqomx_core.so \
     vendor/sony/msm8226-common/proprietary/lib/libta.so:system/lib/libta.so \
@@ -69,13 +67,6 @@ PRODUCT_COPY_FILES += \
     vendor/sony/msm8226-common/proprietary/vendor/lib/egl/libGLESv2_adreno.so:system/vendor/lib/egl/libGLESv2_adreno.so \
     vendor/sony/msm8226-common/proprietary/vendor/lib/egl/libq3dtools_adreno.so:system/vendor/lib/egl/libq3dtools_adreno.so \
     vendor/sony/msm8226-common/proprietary/vendor/lib/lib-dplmedia.so:system/vendor/lib/lib-dplmedia.so \
-    vendor/sony/msm8226-common/proprietary/vendor/lib/lib-imsSDP.so:system/vendor/lib/lib-imsSDP.so \
-    vendor/sony/msm8226-common/proprietary/vendor/lib/lib-imsdpl.so:system/vendor/lib/lib-imsdpl.so \
-    vendor/sony/msm8226-common/proprietary/vendor/lib/lib-imsqimf.so:system/vendor/lib/lib-imsqimf.so \
-    vendor/sony/msm8226-common/proprietary/vendor/lib/lib-imsrcs.so:system/vendor/lib/lib-imsrcs.so \
-    vendor/sony/msm8226-common/proprietary/vendor/lib/lib-imss.so:system/vendor/lib/lib-imss.so \
-    vendor/sony/msm8226-common/proprietary/vendor/lib/lib-imsvt.so:system/vendor/lib/lib-imsvt.so \
-    vendor/sony/msm8226-common/proprietary/vendor/lib/lib-imsxml.so:system/vendor/lib/lib-imsxml.so \
     vendor/sony/msm8226-common/proprietary/vendor/lib/lib-rcsimssjni.so:system/vendor/lib/lib-rcsimssjni.so \
     vendor/sony/msm8226-common/proprietary/vendor/lib/lib-rcsjni.so:system/vendor/lib/lib-rcsjni.so \
     vendor/sony/msm8226-common/proprietary/vendor/lib/lib-rtpcommon.so:system/vendor/lib/lib-rtpcommon.so \
@@ -89,7 +80,6 @@ PRODUCT_COPY_FILES += \
     vendor/sony/msm8226-common/proprietary/vendor/lib/libExtendedExtractor.so:system/vendor/lib/libExtendedExtractor.so \
     vendor/sony/msm8226-common/proprietary/vendor/lib/libFileMux.so:system/vendor/lib/libFileMux.so \
     vendor/sony/msm8226-common/proprietary/vendor/lib/libHevcSwDecoder.so:system/vendor/lib/libHevcSwDecoder.so \
-    vendor/sony/msm8226-common/proprietary/vendor/lib/libI420colorconvert.so:system/vendor/lib/libI420colorconvert.so \
     vendor/sony/msm8226-common/proprietary/vendor/lib/libNimsWrap.so:system/vendor/lib/libNimsWrap.so \
     vendor/sony/msm8226-common/proprietary/vendor/lib/libOmxAacDec.so:system/vendor/lib/libOmxAacDec.so \
     vendor/sony/msm8226-common/proprietary/vendor/lib/libOmxAmrwbplusDec.so:system/vendor/lib/libOmxAmrwbplusDec.so \
@@ -147,11 +137,6 @@ PRODUCT_COPY_FILES += \
     vendor/sony/msm8226-common/proprietary/vendor/lib/libllvm-qcom.so:system/vendor/lib/libllvm-qcom.so \
     vendor/sony/msm8226-common/proprietary/vendor/lib/libloc2jnibridge.so:system/vendor/lib/libloc2jnibridge.so \
     vendor/sony/msm8226-common/proprietary/vendor/lib/libmm-abl-oem.so:system/vendor/lib/libmm-abl-oem.so \
-    vendor/sony/msm8226-common/proprietary/vendor/lib/libmm-abl.so:system/vendor/lib/libmm-abl.so \
-    vendor/sony/msm8226-common/proprietary/vendor/lib/libmm-color-convertor.so:system/vendor/lib/libmm-color-convertor.so \
-    vendor/sony/msm8226-common/proprietary/vendor/lib/libmm-hdcpmgr.so:system/vendor/lib/libmm-hdcpmgr.so \
-    vendor/sony/msm8226-common/proprietary/vendor/lib/libmmQSM.so:system/vendor/lib/libmmQSM.so \
-    vendor/sony/msm8226-common/proprietary/vendor/lib/libmmQTA.so:system/vendor/lib/libmmQTA.so \
     vendor/sony/msm8226-common/proprietary/vendor/lib/libmmhttpstack.so:system/vendor/lib/libmmhttpstack.so \
     vendor/sony/msm8226-common/proprietary/vendor/lib/libmmiipstreammmihttp.so:system/vendor/lib/libmmiipstreammmihttp.so \
     vendor/sony/msm8226-common/proprietary/vendor/lib/libmmipl.so:system/vendor/lib/libmmipl.so \
@@ -159,10 +144,7 @@ PRODUCT_COPY_FILES += \
     vendor/sony/msm8226-common/proprietary/vendor/lib/libmmipstreamnetwork.so:system/vendor/lib/libmmipstreamnetwork.so \
     vendor/sony/msm8226-common/proprietary/vendor/lib/libmmipstreamsourcehttp.so:system/vendor/lib/libmmipstreamsourcehttp.so \
     vendor/sony/msm8226-common/proprietary/vendor/lib/libmmipstreamutils.so:system/vendor/lib/libmmipstreamutils.so \
-    vendor/sony/msm8226-common/proprietary/vendor/lib/libmmjpeg.so:system/vendor/lib/libmmjpeg.so \
     vendor/sony/msm8226-common/proprietary/vendor/lib/libmmosal.so:system/vendor/lib/libmmosal.so \
-    vendor/sony/msm8226-common/proprietary/vendor/lib/libmmparser.so:system/vendor/lib/libmmparser.so \
-    vendor/sony/msm8226-common/proprietary/vendor/lib/libmmqjpeg_codec.so:system/vendor/lib/libmmqjpeg_codec.so \
     vendor/sony/msm8226-common/proprietary/vendor/lib/libmmrtpdecoder.so:system/vendor/lib/libmmrtpdecoder.so \
     vendor/sony/msm8226-common/proprietary/vendor/lib/libmmrtpencoder.so:system/vendor/lib/libmmrtpencoder.so \
     vendor/sony/msm8226-common/proprietary/vendor/lib/libmmwfdinterface.so:system/vendor/lib/libmmwfdinterface.so \
