@@ -57,9 +57,7 @@ PRODUCT_COPY_FILES += \
     vendor/sony/msm8226-common/proprietary/lib/libkeyctrl.so:system/lib/libkeyctrl.so \
     vendor/sony/msm8226-common/proprietary/lib/libmiscta.so:system/lib/libmiscta.so \
     vendor/sony/msm8226-common/proprietary/lib/libpin-cache.so:system/lib/libpin-cache.so \
-    vendor/sony/msm8226-common/proprietary/lib/libqomx_core.so:system/lib/libqomx_core.so \
     vendor/sony/msm8226-common/proprietary/lib/libta.so:system/lib/libta.so \
-    vendor/sony/msm8226-common/proprietary/lib/libvirtual.so:system/lib/libvirtual.so \
     vendor/sony/msm8226-common/proprietary/vendor/lib/drm/libdrmwvmplugin.so:system/vendor/lib/drm/libdrmwvmplugin.so \
     vendor/sony/msm8226-common/proprietary/vendor/lib/egl/eglsubAndroid.so:system/vendor/lib/egl/eglsubAndroid.so \
     vendor/sony/msm8226-common/proprietary/vendor/lib/egl/libEGL_adreno.so:system/vendor/lib/egl/libEGL_adreno.so \
