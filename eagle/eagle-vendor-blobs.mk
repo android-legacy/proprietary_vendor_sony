@@ -57,6 +57,7 @@ PRODUCT_COPY_FILES += \
     vendor/sony/eagle/proprietary/vendor/firmware/libpn547_fw.so:system/vendor/firmware/libpn547_fw.so \
     vendor/sony/eagle/proprietary/lib/hw/camera.msm8226.so:system/lib/hw/camera.msm8226.so \
     vendor/sony/eagle/proprietary/lib/hw/sensors.msm8226.so:system/lib/hw/sensors.msm8226.so \
+    vendor/sony/eagle/proprietary/lib/hw/nfc_nci_pn547.msm8226.so:system/lib/hw/nfc_nci_pn547.msm8226.so \
     vendor/sony/eagle/proprietary/lib/libbeautyface.so:system/lib/libbeautyface.so \
     vendor/sony/eagle/proprietary/lib/libcameraservice.so:system/lib/libcameraservice.so \
     vendor/sony/eagle/proprietary/lib/libchromatix_imx134_liveshot.so:system/lib/libchromatix_imx134_liveshot.so \
@@ -86,6 +87,7 @@ PRODUCT_COPY_FILES += \
     vendor/sony/eagle/proprietary/lib/libmorpho_object_tracker2.so:system/lib/libmorpho_object_tracker2.so \
     vendor/sony/eagle/proprietary/lib/libmorpho_posture_detect.so:system/lib/libmorpho_posture_detect.so \
     vendor/sony/eagle/proprietary/lib/libmorpho_scene_detector.so:system/lib/libmorpho_scene_detector.so \
+    vendor/sony/eagle/proprietary/lib/libnfc-nci.so:system/lib/libnfc-nci.so \
     vendor/sony/eagle/proprietary/lib/libmorpho_super_resolution.so:system/lib/libmorpho_super_resolution.so \
     vendor/sony/eagle/proprietary/lib/libqomx_core.so:system/lib/libqomx_core.so \
     vendor/sony/eagle/proprietary/lib/libyasalgo.so:system/lib/libyasalgo.so \
